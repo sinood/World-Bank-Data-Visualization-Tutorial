@@ -1,4 +1,6 @@
 # World Bank Data Visualization Tutorial
+by Sino Oulad Daoud
+Created as a synthesis of the data science topics and methods covered in COGS 108 @ UCSD
 
 ### A data science tutoral dealing with country fertility rate and male/female literacy rate data
 
